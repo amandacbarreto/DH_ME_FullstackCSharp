@@ -15,3 +15,8 @@
 
 :white_check_mark: Live Share  
 :white_check_mark: Live Preview
+
+---
+
+- [Dica do professor - Principais comandos no terminal](https://docs.google.com/document/d/1JVBBPMwRm_TYpq_FbcojZv2fo4SXkDFTymGuxtShEv0/edit?usp=sharing)
+- [Repositório oficial](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/tree/main/01)
