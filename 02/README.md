@@ -15,4 +15,4 @@ git config --global core.editor code
 ---
 
 - [Repositório oficial](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/02/README.md)
-- [Atividade entregue](https://github.com/amandacbarreto/DH_ME_JogoDaVelha)
+- [Atividade entregue](https://github.com/amandacbarreto/aula02_introducao-a-controle-de-versao)
