@@ -1,13 +1,12 @@
-# Aula 01 - Título
+# Aula 04 (06/06/2022) - Contribuíndo em projetos de código aberto
 
-## Conteúdo
+## O que é uma bifurcação (fork)?
 
-### Assunto `destaque`/`catch`/`finally`
+Uma bifurcação permite criar uma cópia do código-fonte para seu repositorio sem comprometer o projeto original.
 
-```cs
+## Git Pull Request
 
-```
+---
 
-## [Atividade proposta](link da mesa de trabalho)
-## [Atividade entregue](link do repositorio do exercicio desenvolvido em aula)
-## [Nova resolução](atividade individual para treino)
+- [Repositório oficial](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/tree/main/04)
+- [Atividade entregue](https://github.com/jaquerossetto/aula04_contribuindo-em-projetos-de-codigo-aberto.git)
