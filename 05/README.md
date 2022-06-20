@@ -19,9 +19,8 @@ git reset
 
 ## Desfazendo alterações do histórico
 
-> **Note**
-> Desfazer = pegar e jogar fora
-> Reverter = não apaga do histórico
+> **Note** > **Desfazer** = pegar e jogar fora ------
+> **Reverter** = não apaga do histórico
 
 ```bash
 git reset
