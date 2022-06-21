@@ -1,13 +1,12 @@
-# Aula 01 - Título
+# Aula 06 (08/06/2022) - Variaveis e operadores
 
-## Conteúdo
+##
 
-### Assunto `destaque`/`catch`/`finally`
-
-```cs
+```c#
 
 ```
 
-## [Atividade proposta](link da mesa de trabalho)
-## [Atividade entregue](link do repositorio do exercicio desenvolvido em aula)
-## [Nova resolução](atividade individual para treino)
+---
+
+- [Repositório oficial](https://github.com/wssantanna/mercado-eletr-nico-0522cdmencn01bred/blob/main/06/README.md)
+- [Atividade entregue](https://github.com/cgcagnoni/aula06-c_sharp_atividades)
