@@ -81,8 +81,6 @@ double somarValor(double valor)
     return resultadoSoma;
 }
 
-
-
 double subtrairValor(double valor)
 {
     double resultadoSubtração = pegarResultadoDaUltimaOperacaoMatematica() - valor;
