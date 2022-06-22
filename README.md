@@ -25,3 +25,7 @@
 ### [Aula 10 (14/06/2022) - Introdução a Orientação a Objeto](./10/README.md)
 
 ### [Aula 11 (15/06/2022) - Controladores de acesso](./11/README.md)
+
+### [Aula 12 (20/06/2022) - Coleção: Array, ArrayList e List](./12/README.md)
+
+### [Aula 13 (21/06/2022) - Coleção: Enum, Dictionary, Hashtable, SortedList e Iterador](./13/README.md)
