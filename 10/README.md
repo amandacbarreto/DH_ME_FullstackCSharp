@@ -1,4 +1,4 @@
-# Aula 10 (14/06/2022) - Introdução a Orientação a Objeto]
+# Aula 10 (14/06/2022) - Introdução a Orientação a Objeto
 
 ## Encapsulamento
 
