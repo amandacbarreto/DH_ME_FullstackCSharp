@@ -29,3 +29,9 @@
 ### [Aula 12 (20/06/2022) - Coleção: Array, ArrayList e List](./12/README.md)
 
 ### [Aula 13 (21/06/2022) - Coleção: Enum, Dictionary, Hashtable, SortedList e Iterador](./13/README.md)
+
+### [Aula 14 (22/06/2022) - Revisando coleções](./14/README.md)
+
+### [Aula 15 (23/06/2022) - Introdução à Bibliotecas](./15/README.md)
+
+### [Aula 16 (24/06/2022) - Introdução à Windows Presentation Foundation](./16/README.md)
