@@ -38,7 +38,7 @@
 
 ### Aula 17 (27/06/2022) - WPF: XAML (Resolução Checkpoint)
 
-### [Aula 18 (29/06/2022) - WPF: MVVM](./18/README.md)
+### Aula 18 (29/06/2022) - WPF: MVVM
 
 ### [Aula 19 (30/06/2022) - WPF: Revisão](./19/README.md)
 
