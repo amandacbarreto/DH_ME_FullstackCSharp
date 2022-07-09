@@ -35,3 +35,21 @@
 ### [Aula 15 (23/06/2022) - Introdução à Bibliotecas](./15/README.md)
 
 ### [Aula 16 (24/06/2022) - Introdução à Windows Presentation Foundation](./16/README.md)
+
+### Aula 17 (27/06/2022) - WPF: XAML (Resolução Checkpoint)
+
+### [Aula 18 (29/06/2022) - WPF: MVVM](./18/README.md)
+
+### [Aula 19 (30/06/2022) - WPF: Revisão](./19/README.md)
+
+### [Aula 20 (01/07/2022) - Projeto integrador](./20/README.md)
+
+### [Aula 21 (04/07/2022) - Banco de dados: Introdução](./21/README.md)
+
+### [Aula 22 (05/07/2022) - Banco de dados: Relacionamento](./22/README.md)
+
+### [Aula 23 (06/07/2022) - Banco de dados: Manipulando dados](./23/README.md)
+
+### [Aula 24 (07/07/2022) - Banco de dados](./24/README.md)
+
+### [Aula 25 (08/07/2022) - Banco de dados](./25/README.md)
